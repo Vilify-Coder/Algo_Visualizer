@@ -8,7 +8,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="binary_search"
+        android:label="Algo_Visualizer"
         android:icon="@mipmap/ic_launcher">
         <meta-data
             android:name="flutterEmbedding"
